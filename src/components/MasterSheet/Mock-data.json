@@ -1,0 +1,55 @@
+[
+    {
+      "id": 1,
+      "course": "Statistics",
+      "modules": "Analytical Statistics and Research",
+      "code": "CSC 101",
+      "unit": "3",
+      "status": "C",
+      "level": "200",
+      "year": "2017-2019"
+      
+
+      
+    },
+    {
+      "id": 2,
+      "course": "Statistics",
+      "modules": "Analytical Statistics and Research",
+      "code": "CSC 101",
+      "unit": "3",
+      "status": "C",
+      "level": "200",
+      "year": "2017-2019"
+    },
+    {
+      "id": 3,
+      "course": "Statistics",
+      "modules": "Analytical Statistics and Research",
+      "code": "CSC 101",
+      "unit": "3",
+      "status": "C",
+      "level": "200",
+      "year": "2017-2019"
+    },
+    {
+      "id": 4,
+      "course": "Statistics",
+      "modules": "Analytical Statistics and Research",
+      "code": "CSC 101",
+      "unit": "3",
+      "status": "C",
+      "level": "200",
+      "year": "2017-2019"
+    },
+    {
+      "id": 5,
+      "course": "Statistics",
+      "modules": "Analytical Statistics and Research",
+      "code": "CSC 101",
+      "unit": "3",
+      "status": "C",
+      "level": "200",
+      "year": "2017-2019"
+    }
+  ]

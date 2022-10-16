@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "fullName": "Ayomide Akinyemi",
+      "userId": "AY Jame",
+      "department": "Engineering",
+      "email": "Ay.Akinyemi.ng.com",
+      "phoneNumber": "08052613220",
+      "role": "lecturer",
+      "img1": "https://file.rendit.io/n/aIETGJBavFzwQQbRItRl.svg",
+      "img2": "https://file.rendit.io/n/QUmyxyKP3Y1qGXDYg88R.svg"
+
+      
+    },
+    {
+      "id": 2,
+      "fullName": "Ayomide Akinyemi",
+      "userId": "AY Felix",
+      "department": "Finance",
+      "email": "Ay.Akinyemi.ng.com",
+      "phoneNumber": "08052613220",
+      "role": "lecturer",
+      "img1": "https://file.rendit.io/n/aIETGJBavFzwQQbRItRl.svg",
+      "img2": "https://file.rendit.io/n/QUmyxyKP3Y1qGXDYg88R.svg"
+    },
+    {
+      "id": 3,
+      "fullName": "Ofeimun Mathias",
+      "userId": "AY Felix",
+      "department": "Computer Science",
+      "email": "Ay.Akinyemi.ng.com",
+      "phoneNumber": "08052613220",
+      "role": "lecturer",
+      "img1": "https://file.rendit.io/n/aIETGJBavFzwQQbRItRl.svg",
+      "img2": "https://file.rendit.io/n/QUmyxyKP3Y1qGXDYg88R.svg"
+    },
+    {
+      "id": 4,
+      "fullName": "Ayomide Akinyemi",
+      "userId": "AY Felix",
+      "department": "Computer Science",
+      "email": "Ay.Akinyemi.ng.com",
+      "phoneNumber": "08052613220",
+      "role": "lecturer",
+      "img1": "https://file.rendit.io/n/aIETGJBavFzwQQbRItRl.svg",
+      "img2": "https://file.rendit.io/n/QUmyxyKP3Y1qGXDYg88R.svg"
+    },
+    {
+      "id": 5,
+      "fullName": "Ayomide Akinyemi",
+      "userId": "AY Felix",
+      "department": "Computer Science",
+      "email": "Ay.Akinyemi.ng.com",
+      "phoneNumber": "08052613220",
+      "role": "lecturer",
+      "img1": "https://file.rendit.io/n/aIETGJBavFzwQQbRItRl.svg",
+      "img2": "https://file.rendit.io/n/QUmyxyKP3Y1qGXDYg88R.svg"
+    }
+  ]
